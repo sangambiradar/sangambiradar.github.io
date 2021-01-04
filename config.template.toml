@@ -1,5 +1,5 @@
-baseURL = "https://meik2333.com/"
-languageCode = "zh-cn"
+baseURL = "https://sangambiradar.github.io"
+languageCode = "en-cn"
 title = "MeiK's blog"
 theme = "github-style"
 googleAnalytics = "UA-123456-789"
